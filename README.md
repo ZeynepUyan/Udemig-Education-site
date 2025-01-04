@@ -1,3 +1,3 @@
 # Udemig-Education-site
 
-!()[udemig-scss-gif-için.gif]
+![(udemig-scss-gif-için.gif)]
